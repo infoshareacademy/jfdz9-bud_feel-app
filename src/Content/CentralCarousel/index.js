@@ -1,3 +1,3 @@
-import Carousel from './Carousel';
+import SectionCarousel from './Carousel';
 
-export default Carousel;
+export default SectionCarousel;
